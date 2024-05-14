@@ -1,0 +1,29 @@
+.rootFolder {
+  padding: 0.5em;
+}
+
+.rootFolder div {
+  padding-left: 15px;
+}
+
+.folder {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+button {
+  padding: 5px;
+  background-color: #fff;
+  border: 1px solid gray;
+  cursor: pointer;
+  margin-right: 1px;
+  border-radius: 3px
+}
+.inputContainer{
+  margin: 3px 0 1px 0;
+  padding-left: 15px;
+}
+.inputContainer__input{
+  padding: 5px;
+}
